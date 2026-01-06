@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 apply_migrations() {
   echo "Applying database migrations..."
 
